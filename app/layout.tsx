@@ -7,9 +7,9 @@ import AuthGuard from '@/components/auth-guard'
 import ServiceWorkerRegister from '@/components/ServiceWorkerRegister';
 
 export const metadata: Metadata = {
-  title: 'v0 App',
-  description: 'Created with v0',
-  generator: 'v0.app',
+  title: 'Super Admin Dashboard',
+  description: 'Panel to Manage all restaurant admins',
+  generator: 'Infoaios.ai',
 }
 
 export default function RootLayout({
